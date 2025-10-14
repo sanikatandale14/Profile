@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Virtual Campus Guide**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON,CPP**
+- 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON,CPP,C**
 
 - 📫 How to reach me **sanikatandle2@gmail.com**
 
