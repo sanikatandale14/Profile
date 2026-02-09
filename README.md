@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Tandale</h1>
-<h3 align="center">CSE Student | Passionate Learner | Java | Eager To Learn And Grow | Passionate About Cyber Security</h3>
+<h3 align="center">CSE Student | Passionate Learner | Java | Eager To Learn And Grow | Passionate About Web Developement</h3>
 
-- 🔭 I’m currently working on **Virtual Campus Guide**
-
-- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML,CSS,JS,JAVA,PYTHON,CPP,C**
 
